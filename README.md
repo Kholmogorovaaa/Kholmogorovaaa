@@ -23,7 +23,7 @@
 Репозитории будут наполняться, на этой неделе добавлю с kaggle.
 
 **Холмогорова Алёна**  
-+79655043458  связь только через WhatsApp и Telegram  
++79655043458  связь через WhatsApp и Telegram  
 y.holms@yandex.ru  
 
 [<img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/social-leetcode.svg" height="32"/>](https://leetcode.com/Kholmogorovaaa/)
