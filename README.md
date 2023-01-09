@@ -19,8 +19,10 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-Проекты можно посмотреть [здесь](https://github.com/Kholmogorovaaa/Yandex_Practicum_training_projects/blob/main/README.md).  
-Репозитории будут наполняться, на этой неделе добавлю с kaggle.
+
+**Ссылки на мои репозитории:**  
+1. [**Учебные проекты**](https://github.com/Kholmogorovaaa/Yandex_Practicum_training_projects/blob/main/README.md)  
+2. [**Kaggle работы**](https://github.com/Kholmogorovaaa/Kaggle/blob/main/README.md)
 
 **Холмогорова Алёна**  
 +79655043458  связь через WhatsApp и Telegram  
