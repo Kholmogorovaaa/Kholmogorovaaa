@@ -6,6 +6,7 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![OLAP](https://img.shields.io/badge/OLAP-%23013243?style=for-the-badge&logo=olap&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -18,7 +19,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-  
+ 
 Проекты можно посмотреть [здесь](https://github.com/Kholmogorovaaa/Yandex_Practicum_training_projects/blob/main/README.md).  
 Репозитории будут наполняться, на этой неделе добавлю с kaggle.
 
@@ -27,5 +28,3 @@
 y.holms@yandex.ru  
 
 [<img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/social-leetcode.svg" height="32"/>](https://leetcode.com/Kholmogorovaaa/)
-
-
