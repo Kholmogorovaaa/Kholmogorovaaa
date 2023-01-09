@@ -20,7 +20,7 @@
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
   
-Учебные проекты можно посмотреть [здесь](https://github.com/Kholmogorovaaa/Yandex_Practicum_training_projects/blob/main/README.md)
+Учебные проекты можно посмотреть [здесь](https://github.com/Kholmogorovaaa/Yandex_Practicum_training_projects/blob/main/README.md).  
 Репозитории будут наполняться, на этой неделе добавлю с kaggle.
 
 **Холмогорова Алёна**  
