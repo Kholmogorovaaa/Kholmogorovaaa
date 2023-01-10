@@ -28,4 +28,5 @@
 +79655043458  связь через WhatsApp и Telegram  
 y.holms@yandex.ru  
 
+[<img src="https://www.kaggle.com/static/images/site-logo.svg" height="32"/>](https://www.kaggle.com/kholmogorovaaa)
 [<img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/social-leetcode.svg" height="32"/>](https://leetcode.com/Kholmogorovaaa/)
