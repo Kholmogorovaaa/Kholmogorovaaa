@@ -1,4 +1,4 @@
-<h1 align="center">Data Science. Machine Learning.<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h2 align="center">Data Science. Machine Learning.<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h2>
 <p align="center"><img src='https://media.discordapp.net/attachments/997261020609384458/1061901989866389534/kholmogorova_midjourney_intellect_b6f4d4bf-a979-45cc-a6b5-042b1f81a801.png?width=610&height=610' width="350" height="350"></p>
 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
@@ -19,8 +19,8 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
+<h3 align="left">Ссылки на мои репозитории:</h3>  
 
-**Ссылки на мои репозитории:**  
 1. [**Учебные проекты**](https://github.com/Kholmogorovaaa/Yandex_Practicum_training_projects/blob/main/README.md)  
 2. [**Kaggle соревнования**](https://github.com/Kholmogorovaaa/Kaggle/blob/main/README.md)
 
