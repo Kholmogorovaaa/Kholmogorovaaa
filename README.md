@@ -21,8 +21,8 @@
 
 <h3 align="left">Ссылки на мои репозитории:</h3>  
 
-1. [**Учебные проекты**](https://github.com/Kholmogorovaaa/Yandex_Practicum_training_projects/blob/main/README.md)  
-2. [**Kaggle соревнования**](https://github.com/Kholmogorovaaa/Kaggle/blob/main/README.md)
+1. [**Kaggle соревнования**](https://github.com/Kholmogorovaaa/Kaggle/blob/main/README.md)
+2. [**Учебные проекты**](https://github.com/Kholmogorovaaa/Yandex_Practicum_training_projects/blob/main/README.md)  
 
 **Холмогорова Алёна**  
 +79655043458  связь через WhatsApp и Telegram  
