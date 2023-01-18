@@ -25,10 +25,20 @@
 
 [**Сертификат "Специалист по Data Science"**](https://github.com/Kholmogorovaaa/Kholmogorovaaa/blob/main/certificates/Холмогорова%20Алёна%20Александровна_20222DS00641.pdf) 
 
+<p align="center"><img src='https://miro.medium.com/max/650/1*zFnlWAK1wIGZmkTBUHoplA.png' width="400" height="200"></p>
+
+Все проекты выполнены в *Jupiter Notebook*, датасеты не приложены, выложены готовые работы.  
+
+| **Тетрадь на git** | **Описание задачи** | **Ссылка на соревнование** | **Тетрадь kaggle** | **Статус** | **Медали** |
+| -------------------- | --------------------- |---------------------------|---------------------------|---------------------------|---------------------------|
+| [01. Прогноз инсульта](https://github.com/Kholmogorovaaa/Kaggle/tree/main/stroke%20prognosis) | Создаем модель, которая предсказывает вероятность инсульта. Сложность задачи в сильном дисбалансе классов и низком кол-ве объектов с положительным классом. | [Playground Series Season 3, Episode 2 Tabular Classification with a Stroke Prediction Dataset](https://www.kaggle.com/competitions/playground-series-s3e2)|[notebook kaggle](https://www.kaggle.com/code/kholmogorovaaa/upsmple-or-without-upsample) | Завершен |<p align="center"><img src='https://www.kaggle.com/static/images/medals/competitions/bronzel@2x.png' width="35" height="35"></p>|
+| [02. Titanic. Survived model.](https://github.com/Kholmogorovaaa/Kaggle/tree/main/Titanic_kaggle) | Создаем модель, которая предсказывает, какие пассажиры выжили после кораблекрушения Титаника. | [Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic/overview)|[notebook kaggle](https://www.kaggle.com/code/kholmogorovaaa/titanic) | Бессрочный |<p align="center"><img src='https://www.kaggle.com/static/images/medals/competitions/bronzel@2x.png' width="35" height="35"></p>|
+| [03. Прогноз ухода сотрудника из компании](https://www.kaggle.com/code/kholmogorovaaa/unwanted-features-eda-submission) | Предстоит из всех test-сотрудников указать вероятность того, что он уволится | [Playground Series Season 3, Episode 3 Tabular Classification with an Employee Attrition Dataset](https://www.kaggle.com/competitions/playground-series-s3e3) |[notebook kaggle](https://www.kaggle.com/code/kholmogorovaaa/unwanted-features-eda-submission) | В процессе ||
+
 <h3 align="left">Ссылки на мои репозитории:</h3>  
 
-1. [**Kaggle соревнования**](https://github.com/Kholmogorovaaa/Kaggle/blob/main/README.md)
-2. [**Проекты**](https://github.com/Kholmogorovaaa/Yandex_Practicum_training_projects/blob/main/README.md)  
+  1. [**Все Kaggle соревнования**](https://github.com/Kholmogorovaaa/Kaggle/blob/main/README.md)  
+  2. [**Проекты**](https://github.com/Kholmogorovaaa/Yandex_Practicum_training_projects/blob/main/README.md)  
 
 **Холмогорова Алёна**  
 +79655043458  связь через WhatsApp и Telegram  
