@@ -1,5 +1,5 @@
 <h1 align="center">Data Science. Machine Learning.<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<p align="center"><img src='https://media.discordapp.net/attachments/997261020609384458/1061901989866389534/kholmogorova_midjourney_intellect_b6f4d4bf-a979-45cc-a6b5-042b1f81a801.png?width=610&height=610' width="350" height="350"></p>
+<p align="center"><img src='https://media.discordapp.net/attachments/997261020609384458/1061901989866389534/kholmogorova_midjourney_intellect_b6f4d4bf-a979-45cc-a6b5-042b1f81a801.png?width=610&height=610' width="350" height="310"></p>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -29,7 +29,7 @@
 y.holms@yandex.ru  
 
 <h1 align="center">Kaggle соревнования</h1>
-<p align="center"><img src='https://media.discordapp.net/attachments/989268324884049960/1065148944360935434/kholmogorova_robots_compete_in_data_science_d3acd2d5-0549-4356-b479-8e7bb29bdf58.png?width=610&height=610' width="350" height="350"></p>
+<p align="center"><img src='https://media.discordapp.net/attachments/989268324884049960/1065148944360935434/kholmogorova_robots_compete_in_data_science_d3acd2d5-0549-4356-b479-8e7bb29bdf58.png?width=610&height=610' width="350" height="310"></p>
 
 Все проекты выполнены в *Jupiter Notebook*, датасеты не приложены, выложены готовые работы.  
 
