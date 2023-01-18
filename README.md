@@ -23,7 +23,7 @@
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Microsoft Visio ](https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white)
 
-[Сертификат "Специалист по Data Science"](https://github.com/Kholmogorovaaa/Kholmogorovaaa/blob/main/certificates/Холмогорова%20Алёна%20Александровна_20222DS00641.pdf) 
+[**Сертификат "Специалист по Data Science"**](https://github.com/Kholmogorovaaa/Kholmogorovaaa/blob/main/certificates/Холмогорова%20Алёна%20Александровна_20222DS00641.pdf) 
 
 <h3 align="left">Ссылки на мои репозитории:</h3>  
 
