@@ -23,9 +23,13 @@
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Microsoft Visio ](https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white)
 
-[**Сертификат "Специалист по Data Science"**](https://github.com/Kholmogorovaaa/Kholmogorovaaa/blob/main/certificates/Холмогорова%20Алёна%20Александровна_20222DS00641.pdf) 
+[**Сертификат "Специалист по Data Science"**](https://github.com/Kholmogorovaaa/Kholmogorovaaa/blob/main/certificates/Холмогорова%20Алёна%20Александровна_20222DS00641.pdf)  
+**Холмогорова Алёна**  
++79655043458  связь через WhatsApp и Telegram  
+y.holms@yandex.ru  
 
-<p align="center"><img src='https://miro.medium.com/max/650/1*zFnlWAK1wIGZmkTBUHoplA.png' width="400" height="200"></p>
+<h1 align="center">Kaggle соревнования</h1>
+<p align="center"><img src='https://media.discordapp.net/attachments/989268324884049960/1065148944360935434/kholmogorova_robots_compete_in_data_science_d3acd2d5-0549-4356-b479-8e7bb29bdf58.png?width=610&height=610' width="350" height="350"></p>
 
 Все проекты выполнены в *Jupiter Notebook*, датасеты не приложены, выложены готовые работы.  
 
@@ -39,7 +43,3 @@
 
   1. [**Все Kaggle соревнования**](https://github.com/Kholmogorovaaa/Kaggle/blob/main/README.md)  
   2. [**Проекты**](https://github.com/Kholmogorovaaa/Yandex_Practicum_training_projects/blob/main/README.md)  
-
-**Холмогорова Алёна**  
-+79655043458  связь через WhatsApp и Telegram  
-y.holms@yandex.ru  
