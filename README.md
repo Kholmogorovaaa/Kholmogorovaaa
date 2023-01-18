@@ -23,14 +23,13 @@
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Microsoft Visio ](https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white)
 
+[Сертификат "Специалист по Data Science"](https://github.com/Kholmogorovaaa/Kholmogorovaaa/blob/main/certificates/Холмогорова%20Алёна%20Александровна_20222DS00641.pdf) 
+
 <h3 align="left">Ссылки на мои репозитории:</h3>  
 
 1. [**Kaggle соревнования**](https://github.com/Kholmogorovaaa/Kaggle/blob/main/README.md)
-2. [**Учебные проекты**](https://github.com/Kholmogorovaaa/Yandex_Practicum_training_projects/blob/main/README.md)  
+2. [**Проекты**](https://github.com/Kholmogorovaaa/Yandex_Practicum_training_projects/blob/main/README.md)  
 
 **Холмогорова Алёна**  
 +79655043458  связь через WhatsApp и Telegram  
 y.holms@yandex.ru  
-
-[<img src="https://www.kaggle.com/static/images/site-logo.svg" height="32"/>](https://www.kaggle.com/kholmogorovaaa)
-[<img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/social-leetcode.svg" height="32"/>](https://leetcode.com/Kholmogorovaaa/)
