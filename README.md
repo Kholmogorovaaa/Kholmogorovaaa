@@ -24,6 +24,7 @@
 ![Microsoft Visio ](https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white)
 
 [**Сертификат "Специалист по Data Science"**](https://github.com/Kholmogorovaaa/Kholmogorovaaa/blob/main/certificates/Холмогорова%20Алёна%20Александровна_20222DS00641.pdf)  
+[**Сертификат "Курс по Google Аналитике"**](https://github.com/Kholmogorovaaa/Kholmogorovaaa/blob/main/certificates/Курс%20по%20Google%20Аналитике%20для%20начинающих.pdf)  
 **Холмогорова Алёна**  
 +79655043458  связь через WhatsApp и Telegram  
 y.holms@yandex.ru  
