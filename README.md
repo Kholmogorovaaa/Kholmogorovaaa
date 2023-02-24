@@ -32,16 +32,10 @@ y.holms@yandex.ru
 <h1 align="center">Dashboards. Дашборды.</h1>
 <p align="center"><img src='https://i.pinimg.com/originals/e8/ce/d3/e8ced3130e8ee088893b962f1b3e3465.jpg' width="400" height="300"></p>
 
-Дашборды выполнены в Power BI. [Ссылка на файл pbix.](https://github.com/Kholmogorovaaa/Dashboards/blob/main/dash_sales.pbix)
-
-<h3 align="center">Выполнение плана продаж</h1>
-<p align="center"><img src='https://github.com/Kholmogorovaaa/Dashboards/blob/main/%D0%92%D1%8B%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B0%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6.png?raw=true'></p>
-
-<h3 align="center">Продажи к прошлому году</h1>
-<p align="center"><img src='https://github.com/Kholmogorovaaa/Dashboards/blob/main/%D0%9F%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%BA%20%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%BE%D0%BC%D1%83%20%D0%B3%D0%BE%D0%B4%D1%83.png?raw=true'></p>
+Дашборды выполнены в Power BI. Другие Дашборды можно посмотреть [здесь](https://github.com/Kholmogorovaaa/Dashboards/blob/main/README.md).
 
 <h3 align="center">Средний чек</h1>
-<p align="center"><img src='https://github.com/Kholmogorovaaa/Dashboards/blob/main/%D0%A1%D1%80%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9%20%D1%87%D0%B5%D0%BA.png?raw=true'></p>
+<p align="center"><img src='https://github.com/Kholmogorovaaa/Dashboards/blob/main/dash_sales-%E2%80%94-Power-BI-Desktop-2023-02-24-19-50-52.gif?raw=true'></p>
 
 <h1 align="center">Kaggle соревнования</h1>
 <p align="center"><img src='https://media.discordapp.net/attachments/989268324884049960/1065148944360935434/kholmogorova_robots_compete_in_data_science_d3acd2d5-0549-4356-b479-8e7bb29bdf58.png?width=610&height=610' width="350" height="310"></p>
