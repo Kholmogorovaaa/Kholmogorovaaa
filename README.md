@@ -38,7 +38,7 @@ y.holms@yandex.ru
 <p align="center"><img src='https://github.com/Kholmogorovaaa/Dashboards/blob/main/%D0%A1%D1%80%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9%20%D1%87%D0%B5%D0%BA.png?raw=true'></p>
 <p align="center"><img src='https://github.com/Kholmogorovaaa/Dashboards/blob/main/dash_sales-%E2%80%94-Power-BI-Desktop-2023-02-24-19-50-52.gif?raw=true'></p>
 
-<h1 align="center">Kaggle соревнования</h1>
+<h1 align="center">Data Science. Kaggle соревнования.</h1>
 <p align="center"><img src='https://media.discordapp.net/attachments/989268324884049960/1065148944360935434/kholmogorova_robots_compete_in_data_science_d3acd2d5-0549-4356-b479-8e7bb29bdf58.png?width=610&height=610' width="350" height="310"></p>
 
 Все проекты выполнены в *Jupiter Notebook*, датасеты не приложены, выложены готовые работы.  
@@ -52,7 +52,7 @@ y.holms@yandex.ru
 <h3 align="left">Ссылки на мои репозитории:</h3>  
 
   1. [**Все Kaggle соревнования**](https://github.com/Kholmogorovaaa/Kaggle/blob/main/README.md)  
-  2. [**Проекты**](https://github.com/Kholmogorovaaa/Yandex_Practicum_training_projects/blob/main/README.md)  
+  2. [**Проекты DS и DA**](https://github.com/Kholmogorovaaa/Yandex_Practicum_training_projects/blob/main/README.md)  
  
 <h1 align="center">Работы, выполненные в компании по оптовой продаже автозапчастей</h1>
 Датасеты не приложены, выложены готовые варианты. 
