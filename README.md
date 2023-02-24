@@ -35,6 +35,7 @@ y.holms@yandex.ru
 Дашборды выполнены в Power BI. Другие Дашборды можно посмотреть [здесь](https://github.com/Kholmogorovaaa/Dashboards/blob/main/README.md).
 
 <h3 align="center">Средний чек</h1>
+<p align="center"><img src='https://github.com/Kholmogorovaaa/Dashboards/blob/main/%D0%A1%D1%80%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9%20%D1%87%D0%B5%D0%BA.png?raw=true'></p>
 <p align="center"><img src='https://github.com/Kholmogorovaaa/Dashboards/blob/main/dash_sales-%E2%80%94-Power-BI-Desktop-2023-02-24-19-50-52.gif?raw=true'></p>
 
 <h1 align="center">Kaggle соревнования</h1>
