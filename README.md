@@ -51,8 +51,9 @@ y.holms@yandex.ru
 
 <h3 align="left">Ссылки на мои репозитории:</h3>  
 
-  1. [**Все Kaggle соревнования**](https://github.com/Kholmogorovaaa/Kaggle/blob/main/README.md)  
-  2. [**Проекты DS и DA**](https://github.com/Kholmogorovaaa/Yandex_Practicum_training_projects/blob/main/README.md)  
+  1. [**Kaggle соревнования**](https://github.com/Kholmogorovaaa/Kaggle/blob/main/README.md)  
+  2. [**Работы по DS и DA**](https://github.com/Kholmogorovaaa/Yandex_Practicum_training_projects/blob/main/README.md)  
+  3. [**Дашборды**](https://github.com/Kholmogorovaaa/Dashboards)
  
 <h1 align="center">Работы, выполненные в компании по оптовой продаже автозапчастей</h1>
 Датасеты не приложены, выложены готовые варианты. 
