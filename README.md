@@ -32,7 +32,7 @@ y.holms@yandex.ru
 <h1 align="center">Dashboards. Дашборды.</h1>
 <p align="center"><img src='https://i.pinimg.com/originals/e8/ce/d3/e8ced3130e8ee088893b962f1b3e3465.jpg' width="400" height="300"></p>
 
-Дашборды выполнены в Power BI. Другие Дашборды можно посмотреть [здесь](https://github.com/Kholmogorovaaa/Dashboards/blob/main/README.md).
+Дашборды выполнены в Power BI. Другие работы можно посмотреть [здесь](https://github.com/Kholmogorovaaa/Dashboards/blob/main/README.md).
 
 <h3 align="center">Средний чек</h1>
 <p align="center"><img src='https://github.com/Kholmogorovaaa/Dashboards/blob/main/%D0%A1%D1%80%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9%20%D1%87%D0%B5%D0%BA.png?raw=true'></p>
